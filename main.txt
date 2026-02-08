@@ -1,2 +1,3 @@
 This code is now in Jenkins!
 welcome to repository in my git.
+Update for Task 5: Automation is working!
